@@ -378,7 +378,7 @@
 <icon BUILTIN="element"/>
 <node CREATED="1638532646585" ID="ID_1972588312" MODIFIED="1666818870965" TEXT="mean">
 <icon BUILTIN="element"/>
-<node CREATED="1665098578835" ID="ID_298308379" MODIFIED="1668730827725" TEXT="server">
+<node CREATED="1665098578835" ID="ID_298308379" MODIFIED="1668731609150" TEXT="server">
 <icon BUILTIN="element"/>
 <node CREATED="1659305492723" ID="ID_360526106" MODIFIED="1666128433995" TEXT="start">
 <icon BUILTIN="element"/>
@@ -400,7 +400,7 @@
 <icon BUILTIN="element"/>
 <node CREATED="1639138259820" ID="ID_378456817" MODIFIED="1668730267258" TEXT="select">
 <icon BUILTIN="element"/>
-<node CREATED="1639138263700" ID="ID_1164558251" MODIFIED="1668730304370" TEXT="class/properties/rotas">
+<node CREATED="1639138263700" ID="ID_1164558251" MODIFIED="1668732241362" TEXT="class[properties/rotas = &apos;true&apos; ]">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -427,7 +427,7 @@
 <icon BUILTIN="element"/>
 <node CREATED="1639138259820" ID="ID_1629277962" MODIFIED="1668730267258" TEXT="select">
 <icon BUILTIN="element"/>
-<node CREATED="1639138263700" ID="ID_58135334" MODIFIED="1668730304370" TEXT="class/properties/rotas">
+<node CREATED="1639138263700" ID="ID_58135334" MODIFIED="1668732252763" TEXT="class[properties/rotas = &apos;true&apos; ] ">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -446,7 +446,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1665022537197" ID="ID_755477203" MODIFIED="1666128439206" TEXT="patterns">
+<node CREATED="1665022537197" ID="ID_755477203" MODIFIED="1668731681841" TEXT="patterns">
 <icon BUILTIN="element"/>
 <node CREATED="1665023445703" ID="ID_1193325341" MODIFIED="1668729993683" TEXT="inicioImporta">
 <icon BUILTIN="element"/>
@@ -471,7 +471,7 @@
 </node>
 <node CREATED="1665098958829" ID="ID_904161916" MODIFIED="1668730258354" TEXT="declaraRotas">
 <icon BUILTIN="element"/>
-<node CREATED="1665098993502" ID="ID_1170697203" MODIFIED="1668730429054" TEXT="const {{ mi:first-lower(@name) }}Routes = require(&quot;./routes/{{ mi:first-lower(@name) }}Routes&quot;);">
+<node CREATED="1665098993502" ID="ID_1170697203" MODIFIED="1668732267417" TEXT="const {{ mi:first-lower(@name) }}Routes = require(&quot;./routes/{{ mi:first-lower(@name) }}Routes&quot;);">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -507,7 +507,7 @@
 </node>
 <node CREATED="1665099343210" ID="ID_1513355698" MODIFIED="1668730590839" TEXT="usaRotas">
 <icon BUILTIN="element"/>
-<node CREATED="1668730621391" ID="ID_1144496713" MODIFIED="1668730644154" TEXT="app.use(&apos;/{{ mi:first-lower(@name) }}&apos;, {{ mi:first-lower(@name) }}Routes);">
+<node CREATED="1668730621391" ID="ID_1144496713" MODIFIED="1668732366359" TEXT="app.use(&apos;/{{ mi:first-lower(@name) }}&apos;, {{ mi:first-lower(@name) }}Routes);">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -538,7 +538,7 @@
 <icon BUILTIN="element"/>
 <node CREATED="1657631866871" ID="ID_319657258" MODIFIED="1668730327771" TEXT="match">
 <icon BUILTIN="element"/>
-<node CREATED="1657631889091" ID="ID_911550762" MODIFIED="1668730334479" TEXT="class/properties/rotas">
+<node CREATED="1657631889091" ID="ID_911550762" MODIFIED="1668732299109" TEXT="class[properties/rotas = &apos;true&apos; ] ">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -562,7 +562,7 @@
 <icon BUILTIN="element"/>
 <node CREATED="1657631866871" ID="ID_1905371043" MODIFIED="1668730327771" TEXT="match">
 <icon BUILTIN="element"/>
-<node CREATED="1657631889091" ID="ID_867192011" MODIFIED="1668730334479" TEXT="class/properties/rotas">
+<node CREATED="1657631889091" ID="ID_867192011" MODIFIED="1668732305359" TEXT="class[properties/rotas = &apos;true&apos; ] ">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
