@@ -378,7 +378,7 @@
 <icon BUILTIN="element"/>
 <node CREATED="1638532646585" ID="ID_1972588312" MODIFIED="1668790989550" TEXT="mean">
 <icon BUILTIN="element"/>
-<node CREATED="1665098578835" FOLDED="true" ID="ID_298308379" MODIFIED="1668790917408" TEXT="server">
+<node CREATED="1665098578835" FOLDED="true" ID="ID_298308379" MODIFIED="1668794416059" TEXT="server">
 <icon BUILTIN="element"/>
 <node CREATED="1659305492723" ID="ID_360526106" MODIFIED="1666128433995" TEXT="start">
 <icon BUILTIN="element"/>
@@ -1199,6 +1199,12 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
+<node CREATED="1668794451537" ID="ID_317292593" MODIFIED="1668794524574" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1668794458590" ID="ID_1293842956" MODIFIED="1668794520310" TEXT="inicioExportaClass">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
 <node CREATED="1638534170704" ID="ID_1714341716" MODIFIED="1668792352662" TEXT="apply-templates">
 <font BOLD="true" NAME="Dialog" SIZE="16"/>
 <icon BUILTIN="element"/>
@@ -1372,7 +1378,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1668792385694" FOLDED="true" ID="ID_582265238" MODIFIED="1668793620910" TEXT="Class">
+<node CREATED="1668792385694" ID="ID_582265238" MODIFIED="1668794421451" TEXT="Class">
 <icon BUILTIN="Descriptor.grouping"/>
 <node CREATED="1668792071387" ID="ID_140773352" MODIFIED="1668792082280" TEXT="inicioExportaClass">
 <icon BUILTIN="element"/>
@@ -1467,6 +1473,9 @@
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1668793822740" ID="ID_539830931" MODIFIED="1668793845497" TEXT="        let new{{ @name }} = new {{ @name }}({ ">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1668794679604" ID="ID_1490185396" MODIFIED="1668794691027" TEXT="            id: json[&apos;id&apos;]">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
